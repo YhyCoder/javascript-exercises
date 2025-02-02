@@ -8,6 +8,7 @@ const repeatString = function (string, number) {
 
 repeatString("hey", 3);
 repeatString("hello", 10);
+repeatString("hi", 1);
 
 // Do not edit below this line
 module.exports = repeatString;
