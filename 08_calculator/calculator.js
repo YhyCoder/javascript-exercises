@@ -2,8 +2,8 @@ const add = function(firstNumber, secondNumber) {
 	return firstNumber + secondNumber;
 };
 
-const subtract = function() {
-	
+const subtract = function(firstNumber, secondNumber) {
+  return firstNumber - secondNumber;
 };
 
 const sum = function() {
